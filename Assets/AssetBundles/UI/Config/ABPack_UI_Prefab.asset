@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bcb0be3f6b4a80428f8483278918e7a, type: 3}
+  m_Name: ABPack_UI_Prefab
+  m_EditorClassIdentifier: 
+  PackName: ui_prefab
+  PackVariant: blk
+  Extension: '*.prefab'
+  Rule: {fileID: 11400000, guid: fdfb370d73ca2df4982a63ee7a45ace3, type: 2}
+  Builtin: 1
+  DirAssets:
+  - {fileID: 102900000, guid: 351c69f27713bdf4f8c662f352de4fef, type: 3}
+  SingleAssets: []

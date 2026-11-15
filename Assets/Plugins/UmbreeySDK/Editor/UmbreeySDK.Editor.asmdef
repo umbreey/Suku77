@@ -1,0 +1,18 @@
+{
+    "name": "UmbreeySDK.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f870c2af1f5a9444aad11c0267a7d247"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

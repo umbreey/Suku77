@@ -1,0 +1,64 @@
+# Normalize text files; avoid LF/CRLF warning dialogs on Windows
+* text=auto eol=crlf
+
+# Keep Unity YAML / text assets consistent
+*.cs text eol=crlf
+*.shader text eol=crlf
+*.hlsl text eol=crlf
+*.compute text eol=crlf
+*.json text eol=crlf
+*.xml text eol=crlf
+*.txt text eol=crlf
+*.md text eol=crlf
+*.meta text eol=crlf
+*.asset text eol=crlf
+*.prefab text eol=crlf
+*.unity text eol=crlf
+*.anim text eol=crlf
+*.controller text eol=crlf
+*.overrideController text eol=crlf
+*.physicMaterial text eol=crlf
+*.physicsMaterial2D text eol=crlf
+*.mat text eol=crlf
+*.guiskin text eol=crlf
+*.asmdef text eol=crlf
+*.asmref text eol=crlf
+*.inputactions text eol=crlf
+*.uss text eol=crlf
+*.uxml text eol=crlf
+*.shadergraph text eol=crlf
+*.shadersubgraph text eol=crlf
+*.vsconfig text eol=crlf
+*.gitignore text eol=crlf
+*.gitattributes text eol=crlf
+
+# Binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.psd binary
+*.exr binary
+*.hdr binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
+*.fbx binary
+*.obj binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.a binary
+*.pdb binary
+*.mdb binary
+*.zip binary
+*.7z binary
+*.rar binary
+*.unitypackage binary
+*.bundle binary
+*.bytes binary

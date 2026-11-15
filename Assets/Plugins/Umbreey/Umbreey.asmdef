@@ -1,0 +1,21 @@
+{
+    "name": "Umbreey",
+    "rootNamespace": "Umbreey",
+    "references": [
+        "GUID:5bce8a85eae85fb49b7a78967622b125",
+        "GUID:bd5485a714766424d9736ddffde43e9e",
+        "GUID:33661e06c33d31b4c9223810bf503247",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:f870c2af1f5a9444aad11c0267a7d247"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
